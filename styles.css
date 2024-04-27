@@ -4,6 +4,7 @@ body {
 
 .body {
   margin-left: 2%;
+  margin-right: 2%;
 }
 .h2 {
   font-weight: bold;
@@ -17,10 +18,12 @@ body {
 .h4 {
   font-weight: bold;
   margin-left: 2%;
+  margin-right: 2%;
 }
 
 .demo-list-item {
   margin-left: 4%;
+  margin-right: 2%;
 }
 
 .referencetitle {
