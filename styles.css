@@ -19,7 +19,10 @@ body {
   margin-left: 4%;
 }
 
-.button {
-  display: block;
-  margin: auto;
+.referencetitle {
+  text-align: center;
+}
+
+.references {
+  margin-left: 2%;
 }
