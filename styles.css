@@ -26,3 +26,7 @@ body {
 .references {
   margin-left: 2%;
 }
+
+.title {
+  margin-left: -2%;
+}
